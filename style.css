@@ -1,0 +1,39 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+  
+}
+
+.first-section{
+    background-image: url(IMAGES.png);
+    background-repeat:no-repeat;
+    background-position: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    height: 500px;
+    width: 100%;
+    
+    
+}
+.first-section h1{
+    text-align: center;
+    font-size: 40px;
+    color: bisque; ;
+
+   
+}
+.first-section h2{
+    font-size: 20px;
+    text-align: center;
+    text-align: center;
+}
+.button{
+    background-image: linear-gradient(orange,tomato);
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 5px
+
+    
+}
